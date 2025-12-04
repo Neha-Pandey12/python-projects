@@ -84,7 +84,8 @@ Displays employees and salaries
 Calculates total payroll
 
 Screen Short of Output:-
-![alt text](image-1.png)
+![Screenshot](hroutput.png)
+
 
 # Movie Ticket Booking With Seat Reservation
 
@@ -106,8 +107,8 @@ Print a simple ticket on the console when booking succeeds
 Save each booking into bookings.csv
 
 Example output screenshots:-
-![alt text](image-3.png)
-![alt text](image-4.png)
+![alt text](movie1.png)
+![alt text](movie2.png)
 
 <h1>File Format</h1>
 ![alt text](image-5.png)
@@ -172,8 +173,8 @@ Shows clear error messages
 List used for mini-statement
 
 📌 Example Output scrrenshot:-
-![alt text](image-5.png)
-![alt text](image-6.png)
+![alt text](atm1.png)
+![alt text](atm2.png)
 
  # 🎵 Music Player App (Python OOP Project)
 
@@ -227,8 +228,8 @@ Clean separation between Song and Playlist classes
     Handles invalid song selection.
 
 Example Output screenshot:-
-![alt text](image-5.png)
-![alt text](image-6.png)
+![alt text](music.png)
+![alt text](music1-6.png)
 
 
 # Grading System
@@ -279,7 +280,7 @@ Stores student report in a .txt file.
 Used to store and process marks.
 
 Example Output Screenshots:-
-![alt text](image-7.png)
+![alt text](grade.png)
 
 # Hospital System
 🏥 Hospital Patient Management System (Python Project)
@@ -300,7 +301,7 @@ Age
 Problem
 Assigned doctor
 Stored inside a file (patients.txt or .csv).
-![alt text](image-8.png)
+![alt text](hosp.png)
 
 ✔ Medical Record (Composition)
 Each patient HAS a medical record object.
@@ -337,7 +338,7 @@ Used to save patient information in a text file.
 Used to store patient attributes.
 
 Example Output Screenshot:-
-![alt text](image-9.png)
+![alt text](hospital.png)
 
 
 
